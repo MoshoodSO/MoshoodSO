@@ -3,7 +3,7 @@
 
 # 👨‍🏫 Hi, there! I'm Moshood.
 
-I’m a passionate mathematician and researcher with strong interests in **pure mathematics**, **computational modeling**, **data science**, **Natural Language Processing**, and **Machine learning**. I enjoy solving complex problems, teaching learners at various levels, and exploring the real-world applications of mathematical theory.
+I’m a passionate mathematician and researcher with a strong focus on data science, Natural Language Processing, and generative AI. My work blends rigorous mathematical reasoning with modern computational methods to build intelligent models, analyze complex datasets, and develop innovative language-focused AI systems. I enjoy solving challenging problems, mentoring learners at all levels, and exploring how advanced mathematical concepts drive real-world solutions in AI and machine learning.
 
 I most recently earned an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, after completing BSc and MSc degrees in Mathematics at Lagos State University (LASU), Ojo. Earlier in my academic journey, I obtained a National Diploma in Computer Software Engineering. I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems.
 
