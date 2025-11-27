@@ -7,9 +7,7 @@ I’m a passionate mathematician and researcher with a strong focus on data scie
 
 I most recently earned an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, after completing both BSc and MSc degrees in Mathematics at Lagos State University (LASU), Ojo. Earlier in my academic journey, I obtained a National Diploma in Computer Software Engineering. Alongside my formal education, I hold several professional certifications, including Associate Data Scientist, Data Literacy, and AI Fundamentals on DataCamp, as well as training in Apache Spark and other modern data tools.
 
-I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems, with a growing focus on data science, Natural Language Processing, and AI/ML-driven solutions.
-
-My work ranges from teaching and mentoring students in mathematics and statistics to conducting research that applies computational methods to real-world problems. I also develop solutions through programming in **Python**, **R**, **SQL**, and **Mathematica**, combining theory with practical implementation.
+I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems, with a growing focus on data science, Natural Language Processing, and AI/ML-driven solutions. My work spans teaching and mentoring students in mathematics and statistics, conducting research that applies computational methods to real-world challenges, and developing data-driven solutions through programming in Python, R, SQL, and Mathematica, effectively combining mathematical theory with practical implementation.
 
 Let’s Connect: <a href="mailto:shoyombomoshood1@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a>
