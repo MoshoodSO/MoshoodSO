@@ -69,6 +69,14 @@ A web-based application to help young people track, validate, and manage the doc
 **Stack:** Python, CSS, Typescript  
 
 ---
+## 🏆 Recognition
+
+- 🏅 **People’s Choice Award – AIMS Ghana Quantathon (2025)**  
+  Developed *TraffiQ*, a quantum–AI traffic optimization system during the AIMS Quantathon.
+
+
+
+---
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
