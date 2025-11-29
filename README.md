@@ -69,7 +69,7 @@ A web-based application to help young people track, validate, and manage the doc
 **Stack:** Python, CSS, Typescript  
 
 ---
-## 🏆 Recognition
+## 🏆 Recognitions
 
 - 🏅 **People’s Choice Award – AIMS Ghana Quantathon (2025)**  
   Developed [*TraffiQ*](https://github.com/MoshoodSO/TraffiQ--Team-4-Quantathon-AIMS-Ghana-2025), a quantum–AI traffic optimization system during the AIMS Quantathon.
