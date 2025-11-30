@@ -72,7 +72,7 @@ A web-based application to help young people track, validate, and manage the doc
 ## 🏆 Recognitions
 
 - 🏅 **People’s Choice Award – AIMS Ghana Quantathon (2025)**  
-  Developed [*TraffiQ*](https://github.com/MoshoodSO/TraffiQ--Team-4-Quantathon-AIMS-Ghana-2025), a quantum–AI traffic optimization system during the AIMS Quantathon.
+  Developed [**TraffiQ**](https://github.com/MoshoodSO/TraffiQ--Team-4-Quantathon-AIMS-Ghana-2025), a quantum–AI traffic optimization system during the AIMS Quantathon.
 - 🎓 **Mastercard Foundation Scholar (2024–2025)**  
   Completed advanced training in leadership, innovation, and academic excellence at AIMS Ghana.
 - 🎗 **Academic Excellence – Overall Best MSc Graduate (LASU, 2024)**  
