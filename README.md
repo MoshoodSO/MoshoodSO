@@ -77,6 +77,8 @@ A web-based application to help young people track, validate, and manage the doc
   Completed advanced training in leadership, innovation, and academic excellence at AIMS Ghana.
 - 🎗 **Academic Excellence – Overall Best MSc Graduate (LASU, 2024)**  
   Graduated with a perfect CGPA (5.00/5.00).
+- 🥇 **Best Graduating Student – BSc Mathematics (LASU, 2021)**  
+  Recognized as the top-performing student in the Mathematics department.
 
 
 ---
