@@ -70,6 +70,8 @@ A web-based application to help young people track, validate, and manage the doc
 
 ---
 ## 🏆 Recognitions
+- 📜 **Foundations for Business Intelligence & Career Innovation**, AIMS Ghana
+  Completed training on employability skills, data analytics for business, data storytelling, data-driven business intelligence, NLP and data science with R.
 - 📜 **SPARK Academy Certificate of Attendance (2025)**  
   Completed training in *Medical Imaging* and *Machine Learning*.
 - 🏅 **People’s Choice Award – AIMS Ghana Quantathon (2025)**  
