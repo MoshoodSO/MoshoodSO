@@ -72,7 +72,7 @@ A web-based application to help young people track, validate, and manage the doc
 ## 🏆 Recognitions
 - 📜 **Foundations for Business Intelligence & Career Innovation, (AIMS Ghana, 2025)**  
   Completed training on employability skills, data analytics for business, data storytelling, data-driven business intelligence, NLP and data science with R.
-- 🎓 **Medics In Tech Scholarship on DataCamp (2025)**  
+- 🎓 **Medics In Tech Scholarship on [DataCamp](https://www.datacamp.com/portfolio/moshood-8efbc2c2-a9ba-4bb7-a536-0af17a8713fd) (2025)**  
   Certifications on Associate Data Scientist, Python Data Assosiate, AI Fundamentals and Data Literacy, and certificate of Accomplishment on Python, R, SQL, Excel, and Data related courses both in skills and career tracks. 
 - 📜 **SPARK Academy Certificate of Attendance (2025)**  
   Completed training in *Medical Imaging* and *Machine Learning*.
