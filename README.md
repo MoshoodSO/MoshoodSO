@@ -73,7 +73,7 @@ A web-based application to help young people track, validate, and manage the doc
 - 📜 **Foundations for Business Intelligence & Career Innovation, (AIMS Ghana, 2025)**  
   Completed training on employability skills, data analytics for business, data storytelling, data-driven business intelligence, NLP and data science with R.
 - 🎓 **Medics In Tech Scholarship on DataCamp (2025)**  
-  Certifications on Associate Data Scientist, Python Data Assosiate, AI Fundamentals and Data Literacy. 
+  Certifications on Associate Data Scientist, Python Data Assosiate, AI Fundamentals and Data Literacy, and certificate of Accomplishment on Python, R, SQL, Excel, and Data related courses both in skills and career tracks. 
 - 📜 **SPARK Academy Certificate of Attendance (2025)**  
   Completed training in *Medical Imaging* and *Machine Learning*.
 - 🏅 **People’s Choice Award – AIMS Ghana Quantathon (2025)**  
