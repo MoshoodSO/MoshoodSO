@@ -70,7 +70,7 @@ A web-based application to help young people track, validate, and manage the doc
 
 ---
 ## 🏆 Recognitions
-- 📜 **Certificate of Participation, Infectious Disease Modelling and Analytics (ICAMMDA 2025)**  
+- 📜 **Certificate of Participation (ICAMMDA, 2025)**  
   Completed a 2-Day sympoposium on Infectious Disease Modelling and Analytics. 
 - 📜 **Foundations for Business Intelligence & Career Innovation, (AIMS Ghana, 2025)**  
   Completed training on employability skills, data analytics for business, data storytelling, data-driven business intelligence, NLP and data science with R.
