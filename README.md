@@ -74,8 +74,8 @@ A web-based application to help young people track, validate, and manage the doc
   Completed a 2-Day sympoposium on Infectious Disease Modelling and Analytics. 
 - 📜 **Foundations for Business Intelligence & Career Innovation, (AIMS Ghana, 2025)**  
   Completed training on employability skills, data analytics for business, data storytelling, data-driven business intelligence, NLP and data science with R.
-- 🧪 **AIMS Research Workshops (2024–2025)**  
-  Participated in research methodology, scientific writing, and computational skills workshops.
+- 🎤 **Conference Participant – HTTMC (2025)**  
+  Engaged in mathematics education and pedagogical development sessions.
 - 🎓 **Medics In Tech Scholarship on [DataCamp](https://www.datacamp.com/portfolio/moshood-8efbc2c2-a9ba-4bb7-a536-0af17a8713fd) (2025)**  
   Certifications on Associate Data Scientist, Python Data Assosiate, AI Fundamentals and Data Literacy, and certificate of Accomplishment on Python, R, SQL, Excel, and Data related courses both in skills and career tracks. 
 - 📜 **SPARK Academy Certificate of Attendance (2025)**  
