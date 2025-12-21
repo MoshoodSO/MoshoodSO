@@ -77,10 +77,10 @@ This project was built using Lovable.dev, an AI-powered platform that enables th
 
 Key features include:
 - Document Upload & Processing (Support for multiple file formats PDF, DOCX, etc.)
-- AI-Powered Assistant (Summarization of documents and extract research insights)
-- User Experience: Clean and intuitive UI built with modern web technologies and real-time response generation for seamless interaction
+- AI-Powered Assistant 
+- User Experience
 
-[🔗 GitHub Repo]
+[🔗 GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)
 
 ---
 ## 🏆 Recognitions
