@@ -68,6 +68,13 @@ A web-based application to help young people track, validate, and manage the doc
 
 **Stack:** Python, CSS, Typescript  
 
+
+### 🤖📚 Research4me - An AI-Powered Research Assistant App
+
+
+This project was built using Lovable.dev, an AI-powered platform for creating full-stack web apps from natural language prompts. This app lets users upload research papers (PDF, DOCX, links to the file, etc.), analyze content, and interact with an AI assistant for summarization, Q&A, and insights. It features smart document processing, real-time responses, and a clean UI.
+
+
 ---
 ## 🏆 Recognitions
 - 📜 **Certificate of Participation (ICAMMDA, 2025)**  
