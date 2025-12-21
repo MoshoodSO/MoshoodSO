@@ -71,9 +71,16 @@ A web-based application to help young people track, validate, and manage the doc
 
 ### 🤖📚 Research4me - An AI-Powered Research Assistant App
 
+![Demo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App/blob/main/research4me.gif)
 
-This project was built using Lovable.dev, an AI-powered platform for creating full-stack web apps from natural language prompts. This app lets users upload research papers (PDF, DOCX, links to the file, etc.), analyze content, and interact with an AI assistant for summarization, Q&A, and insights. It features smart document processing, real-time responses, and a clean UI.
+This project was built using Lovable.dev, an AI-powered platform that enables the creation of full-stack web applications from natural language prompts. The app is designed for researchers and professionals who need to quickly analyze and extract insights from research documents.
 
+Key features include:
+- Document Upload & Processing (Support for multiple file formats PDF, DOCX, etc.)
+- AI-Powered Assistant (Summarization of documents and extract research insights)
+- User Experience: Clean and intuitive UI built with modern web technologies and real-time response generation for seamless interaction
+
+[🔗 GitHub Repo]
 
 ---
 ## 🏆 Recognitions
