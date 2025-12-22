@@ -52,7 +52,7 @@ Here you will find:
 
 ---
 
-## Featured Projects  
+## 💡 Featured Projects  
 
 ### 🧑🏾‍⚖️ Financial Inclusion App 
 
