@@ -81,7 +81,13 @@ Key features include:
 - User Experience
 
 [🔗 GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)
+# 💻 Stack languages 
+- Platform: Lovable.dev 
+- Frontend: TypeScript, Javascript
+- Backend: Node.js
+- AI Features: Python (for NLP tasks)
 
+Lovable.dev abstracts much of this though 😊
 ---
 ## 🏆 Recognitions
 - 📜 **Certificate of Participation (ICAMMDA, 2025)**  
