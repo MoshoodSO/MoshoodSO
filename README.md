@@ -88,7 +88,6 @@ Key features include:
 - Backend: Node.js
 - AI Features: Python (for NLP tasks)
 
-Lovable.dev abstracts much of this though 😊
 ---
 ## 🏆 Recognitions
 - 📜 **Certificate of Participation (ICAMMDA, 2025)**  
