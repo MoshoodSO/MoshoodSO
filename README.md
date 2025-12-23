@@ -54,7 +54,7 @@ Here you will find:
 
 ## 💡 Featured Projects  
 
-### 🧑🏾‍⚖️ Financial Inclusion App 
+# 🧑🏾‍⚖️ Financial Inclusion App 
 
 ![Financial Inclusion App](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
 
