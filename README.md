@@ -85,7 +85,7 @@ Key features include:
 **💻 Stack**: Lovable.dev (platform), TypeScript, Javascript, Node.js, Python (for NLP tasks)
 
 ---
-## 🏆 Recognitions
+# 🏆 Recognitions
 - 📜 **Certificate of Participation (ICAMMDA, 2025)**  
   Completed a 2-Day sympoposium on Infectious Disease Modelling and Analytics. 
 - 📜 **Foundations for Business Intelligence & Career Innovation, (AIMS Ghana, 2025)**  
