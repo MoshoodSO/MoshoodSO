@@ -52,9 +52,9 @@ Here you will find:
 
 ---
 
-## 💡 Featured Projects  
+# 💡 Featured Projects  
 
-# 🧑🏾‍⚖️ Financial Inclusion App 
+## 🧑🏾‍⚖️ Financial Inclusion App 
 
 ![Financial Inclusion App](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
 
@@ -69,7 +69,7 @@ A web-based application to help young people track, validate, and manage the doc
 **Stack:** Python, CSS, Typescript  
 
 
-### 🤖📚 Research4me - An AI-Powered Research Assistant App
+## 🤖📚 Research4me - An AI-Powered Research Assistant App
 
 ![Demo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App/blob/main/research4me.gif)
 
