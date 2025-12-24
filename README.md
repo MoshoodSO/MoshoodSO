@@ -86,7 +86,7 @@ Key features include:
 
 ---
 # 🏆 Recognitions
-- 📜 **LinkedIn Certifications (2025)**
+- 📜 **LinkedIn Certifications (2025)**  
   Certifications on AI Projects with Python, TensorFlow, and NLTK; Telling Stories with Data; and Ethics in the Age of Generative AI 
 - 📜 **Certificate of Participation (ICAMMDA, 2025)**  
   Completed a 2-Day sympoposium on Infectious Disease Modelling and Analytics. 
