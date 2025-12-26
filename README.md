@@ -96,7 +96,6 @@ Key features include:
   Completed training on employability skills, data analytics for business, data storytelling, data-driven business intelligence, NLP and data science with R.
 - 🎤 **Conference Participant – HTTMC (2025)**  
   Engaged in mathematics education and pedagogical development sessions.
- 
 - 📜 **SPARK Academy Certificate of Attendance (2025)**  
   Completed training in *Medical Imaging* and *Machine Learning*.
 - 🏅 **People’s Choice Award – AIMS Ghana Quantathon (2025)**  
