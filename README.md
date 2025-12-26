@@ -86,7 +86,7 @@ Key features include:
 
 ---
 # 🏆 Recognitions
-- 📜 **LinkedIn Certifications (2025)**  
+- 📜 **LinkedIn Learning Certifications (2025)**  
   Certifications on AI Projects with Python, TensorFlow, and NLTK; Telling Stories with Data; and Ethics in the Age of Generative AI
 - 🎓 **Medics In Tech Scholarship on [DataCamp](https://www.datacamp.com/portfolio/moshood-8efbc2c2-a9ba-4bb7-a536-0af17a8713fd) (2025)**  
   Certifications on **Associate Data Scientist, Python Data Assosiate, AI Fundamentals** and **Data Literacy**, and certificate of Accomplishment on *Python, R, SQL, Excel,* and *Data* related courses both in skills and career tracks.
