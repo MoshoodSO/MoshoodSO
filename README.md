@@ -36,7 +36,7 @@ Let’s Connect:
 # 🛠️ Key Skills
 
 - **Programming & Software Development:** Python, R, Julia, GAP
-- **Data Analysis & Visualization:** Data analysis, statistical modeling, and visualization using Python, R, Microsoft Excel, and Google Sheets
+- **Data Analysis & Visualization:** Data analysis, statistical modeling, and visualization using Python, R, PowerBI Microsoft Excel, and Google Sheets
 - **Database Management:** SQL, PostgreSQL, Snowflake, database querying, and data management
 - **Scientific & Mathematical Computing:** Wolfram Mathematica, GeoGebra, Desmos, computational mathematics, and symbolic computation
 - **Quantum Computing:** Quantum algorithm development and simulation using Qiskit, Cirq, and PennyLane
