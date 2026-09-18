@@ -260,6 +260,7 @@ A web-based application to help young people track, validate, and manage the doc
 
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-F9AB00?style=for-the-badge&logo=google-sheets&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-%23217346.svg?style=for-the-badge&logo=microsoft-PowerBI&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/overleaf-008080?style=for-the-badge&logo=latex&logoColor=white)
