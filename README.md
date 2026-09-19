@@ -5,7 +5,7 @@
 
 I'm a mathematician and researcher passionate about **Data Science**, **Natural Language Processing (NLP)**, and **Generative AI**. I enjoy combining mathematical theory with computational methods to build intelligent systems, analyze data, and solve real-world problems.
 
-I hold an **MSc in Mathematical Sciences** from the **African Institute for Mathematical Sciences (AIMS), Ghana**, as well as **BSc** and **MSc** degrees in Mathematics from **Lagos State University (LASU)**. I also have a **National Diploma in Computer Software Engineering** and professional certifications in **Data Science and analysis (Python & SQL)**, **Data Literacy**, and **AI Fundamentals**
+I hold an **MSc in Mathematical Sciences** from the **African Institute for Mathematical Sciences (AIMS), Ghana**, as well as **BSc** and **MSc** degrees in Mathematics from **Lagos State University (LASU)**, Ojo, Nigeria. I also have a **National Diploma in Computer Software Engineering** and professional certifications in **Data Science and analysis (Python & SQL)**, **Data Literacy**, and **AI Fundamentals**
 
 My work focuses on research, teaching, and developing AI- and data-driven solutions using **Python, R, SQL, SageMath,** and **Wolfram Mathematica**. I'm passionate about mentoring, applying mathematics to practical challenges, and advancing intelligent technologies through data and machine learning.
 
