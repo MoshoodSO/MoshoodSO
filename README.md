@@ -275,6 +275,7 @@ A web-based application to help young people track, validate, and manage the doc
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0E7C7B?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3776AB?style=for-the-badge&logo=sympy&logoColor=white)
@@ -364,30 +365,6 @@ A web-based application to help young people track, validate, and manage the doc
 </table>
 
 
-
-
-## 📊 GitHub Activity  
-<table>
-  <tr> 
-    <td> 
-      <img src="https://github-readme-stats-h7551s0dx-chantelleaas-projects.vercel.app/api?username=ChantelleAA&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-    </td> 
-    <td> 
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChantelleAA&theme=dark&hide_border=true" /> 
-    </td> 
-    <td> 
-      <img src="https://github-readme-stats-h7551s0dx-chantelleaas-projects.vercel.app/api/top-langs/?username=ChantelleAA&layout=compact&langs_count=10&card_width=320&theme=dark&hide_border=true" /> 
-    </td> 
-  </tr> 
-  <tr> 
-    <td colspan="2"> 
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=dark" /> 
-    </td> 
-    <td> 
-      <img src="https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=dark&margin-w=10&row=2&column=3" /> 
-    </td> 
-  </tr> 
-</table>
 
 
 <!--
