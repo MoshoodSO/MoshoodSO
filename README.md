@@ -98,7 +98,7 @@ Career Copilot is an AI-powered job assistant that  helps job seekers turn their
 
 **💻 Stack**: Lovable, n8n, JSON
 
---
+
 
 ## ✈️🌟 British Airway Reviews Sentiment 
 
