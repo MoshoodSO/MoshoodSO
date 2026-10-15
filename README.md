@@ -3,11 +3,33 @@
   
 # 👨‍🏫 Hey! I'm Moshood.
 
-I'm a mathematician and researcher passionate about **Data Science**, **Natural Language Processing (NLP)**, and **Generative AI**. I enjoy combining mathematical theory with computational methods to build intelligent systems, analyze data, and solve real-world problems.
+## About Me
+
+I'm a **Mathematician, Researcher, and AI Enthusiast** passionate about **Data Science, Natural Language Processing (NLP), Machine Learning, and Generative AI**. I enjoy bridging mathematical theory and computational techniques to develop intelligent systems, uncover insights from data, and solve real-world problems.
+
+🎓 **Education**
+- **MSc in Mathematical Sciences** — African Institute for Mathematical Sciences (AIMS), Ghana
+- **BSc & MSc in Mathematics** — Lagos State University (LASU), Ojo, Nigeria
+- **National Diploma in Computer Software Engineering**
+
+💻 **Technical Skills**
+- **Programming & Data Science:** Python, R, SQL
+- **Mathematical Computing:** SageMath, Wolfram Mathematica
+- **AI & Analytics:** Machine Learning, NLP, Generative AI, Data Analysis, and Data Literacy
+
+🔬 **Research & Interests**
+
+My work spans mathematical research, teaching, data-driven problem-solving, and the development of AI-powered solutions. I'm particularly interested in applying mathematical modeling, statistical methods, and machine learning to practical challenges.
+
+🌱 I'm committed to continuous learning, mentoring aspiring professionals, and contributing to innovative projects at the intersection of **Mathematics, Data Science, and Artificial Intelligence**.
+
+🤝 I'm open to collaborating on research projects, open-source contributions, and innovative applications of mathematics and AI.
+
+<!-- I'm a mathematician and researcher passionate about **Data Science**, **Natural Language Processing (NLP)**, and **Generative AI**. I enjoy combining mathematical theory with computational methods to build intelligent systems, analyze data, and solve real-world problems.
 
 I hold an **MSc in Mathematical Sciences** from the **African Institute for Mathematical Sciences (AIMS), Ghana**, as well as **BSc** and **MSc** degrees in Mathematics from **Lagos State University (LASU)**, Ojo, Nigeria. I also have a **National Diploma in Computer Software Engineering** and professional certifications in **Data Science and Analysis (Python & SQL)**, **Data Literacy**, and **AI Fundamentals**
 
-My work focuses on research, teaching, and developing AI- and data-driven solutions using **Python, R, SQL, SageMath,** and **Wolfram Mathematica**. I'm passionate about mentoring, applying mathematics to practical challenges, and advancing intelligent technologies through data and machine learning.
+My work focuses on research, teaching, and developing AI- and data-driven solutions using **Python, R, SQL, SageMath,** and **Wolfram Mathematica**. I'm passionate about mentoring, applying mathematics to practical challenges, and advancing intelligent technologies through data and machine learning.-->
 
 
 <!-- I’m a passionate mathematician and researcher with a strong focus on **Data Science**, **Natural Language Processing**, and **Generative AI**. My work blends rigorous mathematical reasoning with modern computational methods to build intelligent models, analyze complex datasets, and develop innovative language-focused AI systems. I enjoy solving challenging problems, mentoring learners at all levels, and exploring how advanced mathematical concepts drive real-world solutions in AI and machine learning.
