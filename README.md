@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a **Mathematician, Researcher, and AI Enthusiast** passionate about **Data Science, Natural Language Processing (NLP), Machine Learning, and Generative AI**. I enjoy bridging mathematical theory and computational techniques to develop intelligent systems, uncover insights from data, and solve real-world problems.
+I'm a **Mathematician, Researcher, and AI Enthusiast** passionate about **Data Science and Analytics, Natural Language Processing (NLP), Machine Learning, and Generative AI**. I enjoy bridging mathematical theory and computational techniques to develop intelligent systems, uncover insights from data, and solve real-world problems.
 
 🎓 **Education**
 - **MSc in Mathematical Sciences** — African Institute for Mathematical Sciences (AIMS), Ghana
