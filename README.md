@@ -13,7 +13,7 @@ I'm a **Mathematician, Researcher, and AI Enthusiast** passionate about **Data S
 - **National Diploma in Computer Software Engineering**
 
 💻 **Technical Skills**
-- **Programming & Data Science:** Python, R, SQL
+- **Programming & Data Science:** Python, R, SQL, Julia
 - **Mathematical Computing:** SageMath, Wolfram Mathematica
 - **AI & Analytics:** Machine Learning, NLP, Generative AI, Data Analysis, and Data Literacy
 
