@@ -344,6 +344,7 @@ A web-based application to help young people track, validate, and manage the doc
 ![Lovable AI](https://img.shields.io/badge/lovableai-F37626?style=for-the-badge&logo=lovableai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-F37626?style=for-the-badge&logo=n8n&logoColor=white)
 ![v0](https://img.shields.io/badge/v0-F37626?style=for-the-badge&logo=v0&logoColor=white)
+![vercel](https://img.shields.io/badge/vercel-F37626?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
